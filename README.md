@@ -2,6 +2,17 @@
 
 A modern, fully responsive dashboard application built with React, Vite, and Tailwind CSS. Features beautiful charts, analytics, and a clean user interface with accessibility-first design and purple color scheme.
 
+## 🌐 Live Demo
+
+**[📊 View Live Dashboard](https://mutlukurt.github.io/dashboard-app/)** — Experience the responsive design across all devices
+
+<div align="center">
+  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Dashboard-6C5CE7?style=for-the-badge&logo=react&logoColor=white)](https://mutlukurt.github.io/dashboard-app/)
+[![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://mutlukurt.github.io/dashboard-app/)
+
+</div>
+
 ## ✨ Features
 
 - 📊 **Interactive Charts**: Line charts and donut charts using Recharts with responsive sizing
